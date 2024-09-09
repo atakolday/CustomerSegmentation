@@ -1,0 +1,251 @@
+AudienceID,RetailerID,Insight,CriteriaType,CriteriaValue,CreatedAt
+1,15,interest based,N/A,N/A,2020-01-01 22:09:16
+2,54,interest based,N/A,N/A,2020-01-02 12:55:57
+3,68,promotion preference,N/A,N/A,2020-01-03 07:40:37
+4,19,channel preference,seo,one level,2020-01-04 04:04:42
+5,73,channel preference,podcast,direct,2020-01-05 00:04:29
+6,27,promotion preference,N/A,N/A,2020-01-06 01:44:59
+7,15,interest based,N/A,N/A,2020-01-07 20:55:11
+8,51,purchase propensity,completed,N/A,2020-01-08 12:13:16
+9,23,purchase propensity,pending,N/A,2020-01-09 17:19:42
+10,65,interest based,N/A,N/A,2020-01-10 10:59:16
+11,95,purchase propensity,completed,N/A,2020-01-11 20:09:50
+12,39,channel preference,podcast,direct,2020-01-12 20:53:07
+13,8,channel preference,podcast,one level,2020-01-13 03:37:21
+14,74,engagement status,page_module,specification,2020-01-14 21:46:12
+15,8,engagement status,page_module,bottom,2020-01-15 02:00:52
+16,95,demographic,occupation,service_occupations,2020-01-16 20:43:01
+17,61,demographic,income,43960,2020-01-17 21:06:08
+18,64,interest based,N/A,N/A,2020-01-18 23:46:18
+19,2,interest based,N/A,N/A,2020-01-19 21:55:24
+20,84,channel preference,video,one level,2020-01-20 01:51:06
+21,16,demographic,gender,female,2020-01-21 17:32:49
+22,94,channel preference,website and blogs,direct,2020-01-22 12:11:16
+23,53,engagement status,dwell_time_seconds,105,2020-01-23 14:29:41
+24,37,demographic,income,40702,2020-01-24 04:24:40
+25,32,geographic,city,Louisville/Jefferson County metro government (balance),2020-01-25 15:08:01
+26,25,engagement status,action_type,purchase,2020-01-26 13:01:47
+27,50,engagement status,page_module,comments,2020-01-27 15:39:06
+28,91,interest based,N/A,N/A,2020-01-28 22:54:04
+29,25,promotion preference,N/A,N/A,2020-01-29 14:24:09
+30,84,engagement status,page_module,bottom,2020-01-30 11:50:51
+31,40,promotion preference,N/A,N/A,2020-01-31 01:59:26
+32,11,demographic,gender,female,2020-02-01 20:57:46
+33,56,demographic,occupation,sales_and_office_occupations,2020-02-02 08:54:23
+34,45,channel preference,podcast,three level,2020-02-03 10:35:48
+35,52,engagement status,dwell_time_seconds,159,2020-02-04 01:17:45
+36,73,demographic,gender,female,2020-02-05 23:51:52
+37,60,geographic,state,Oregon,2020-02-06 19:23:16
+38,55,engagement status,page_module,specification,2020-02-07 12:43:42
+39,80,demographic,occupation,management_business_science_arts,2020-02-08 18:06:08
+40,25,demographic,occupation,sales_and_office_occupations,2020-02-09 04:09:21
+41,59,interest based,N/A,N/A,2020-02-10 05:33:58
+42,53,engagement status,click_source,home,2020-02-11 22:46:14
+43,16,interest based,N/A,N/A,2020-02-12 16:16:22
+44,86,interest based,N/A,N/A,2020-02-13 17:12:32
+45,100,purchase propensity,completed,N/A,2020-02-14 09:22:36
+46,32,engagement status,page_module,bottom,2020-02-15 06:31:38
+47,15,interest based,N/A,N/A,2020-02-16 11:03:11
+48,96,channel preference,social media,three level,2020-02-17 18:24:00
+49,62,interest based,N/A,N/A,2020-02-18 08:43:51
+50,90,interest based,N/A,N/A,2020-02-19 08:39:23
+51,99,engagement status,click_source,search,2020-02-20 20:01:05
+52,50,interest based,N/A,N/A,2020-02-21 14:36:51
+53,14,engagement status,dwell_time_seconds,266,2020-02-22 03:43:32
+54,83,engagement status,page_module,,2020-02-23 00:49:57
+55,60,channel preference,podcast,direct,2020-02-24 00:03:07
+56,86,purchase propensity,pending,N/A,2020-02-25 10:26:11
+57,57,engagement status,click_source,category,2020-02-26 23:18:44
+58,26,demographic,education,less_than_high_school_diploma,2020-02-27 05:19:18
+59,4,engagement status,page_module,comments,2020-02-28 13:16:27
+60,17,interest based,N/A,N/A,2020-02-29 17:08:27
+61,6,purchase propensity,completed,N/A,2020-03-01 17:05:49
+62,58,interest based,N/A,N/A,2020-03-02 04:15:49
+63,67,promotion preference,N/A,N/A,2020-03-03 05:37:28
+64,76,channel preference,video,one level,2020-03-04 06:56:56
+65,96,promotion preference,N/A,N/A,2020-03-05 13:12:45
+66,26,purchase propensity,pending,N/A,2020-03-06 23:29:46
+67,13,channel preference,social media,two level,2020-03-07 21:36:57
+68,39,geographic,city,Milwaukee city,2020-03-08 11:48:35
+69,60,purchase propensity,completed,N/A,2020-03-09 23:09:43
+70,67,promotion preference,N/A,N/A,2020-03-10 11:09:49
+71,44,interest based,N/A,N/A,2020-03-11 12:49:05
+72,14,promotion preference,N/A,N/A,2020-03-12 04:08:39
+73,31,channel preference,social media,two level,2020-03-13 21:24:54
+74,41,demographic,occupation,sales_and_office_occupations,2020-03-14 09:53:16
+75,74,geographic,state,Tennessee,2020-03-15 15:51:42
+76,52,demographic,income,40585,2020-03-16 03:53:12
+77,56,engagement status,dwell_time_seconds,153,2020-03-17 01:30:45
+78,50,interest based,N/A,N/A,2020-03-18 09:39:00
+79,56,demographic,gender,female,2020-03-19 18:45:18
+80,96,engagement status,page_module,specification,2020-03-20 04:03:29
+81,48,promotion preference,N/A,N/A,2020-03-21 21:31:29
+82,70,purchase propensity,shipped,N/A,2020-03-22 18:26:34
+83,47,interest based,N/A,N/A,2020-03-23 10:49:31
+84,99,purchase propensity,completed,N/A,2020-03-24 20:22:22
+85,12,purchase propensity,completed,N/A,2020-03-25 16:41:10
+86,5,purchase propensity,pending,N/A,2020-03-26 15:15:36
+87,81,interest based,N/A,N/A,2020-03-27 20:45:07
+88,97,interest based,N/A,N/A,2020-03-28 21:58:30
+89,100,promotion preference,N/A,N/A,2020-03-29 00:46:59
+90,32,promotion preference,N/A,N/A,2020-03-30 18:16:15
+91,12,engagement status,action_type,purchase,2020-03-31 21:20:56
+92,81,demographic,gender,male,2020-04-01 03:04:45
+93,7,engagement status,dwell_time_seconds,63,2020-04-02 04:04:21
+94,96,interest based,N/A,N/A,2020-04-03 11:39:15
+95,82,geographic,city,San Jose city,2020-04-04 04:33:34
+96,14,demographic,industry,finance_insurance_real_estate,2020-04-05 00:56:58
+97,54,engagement status,dwell_time_seconds,176,2020-04-06 09:25:55
+98,4,channel preference,video,two level,2020-04-07 12:53:30
+99,17,engagement status,action_type,view,2020-04-08 03:12:04
+100,19,demographic,gender,male,2020-04-09 23:46:15
+101,2,purchase propensity,completed,N/A,2020-04-10 16:52:50
+102,23,engagement status,dwell_time_seconds,192,2020-04-11 11:03:39
+103,48,purchase propensity,shipped,N/A,2020-04-12 05:01:10
+104,98,interest based,N/A,N/A,2020-04-13 11:09:20
+105,9,channel preference,social media,direct,2020-04-14 09:15:40
+106,43,demographic,age,18 to 24 years,2020-04-15 05:58:56
+107,96,geographic,country,USA,2020-04-16 18:19:34
+108,80,demographic,income,43628,2020-04-17 00:11:19
+109,40,promotion preference,N/A,N/A,2020-04-18 08:23:04
+110,47,promotion preference,N/A,N/A,2020-04-19 18:15:40
+111,83,purchase propensity,shipped,N/A,2020-04-20 03:05:34
+112,63,purchase propensity,completed,N/A,2020-04-21 03:36:57
+113,48,interest based,N/A,N/A,2020-04-22 02:01:58
+114,60,geographic,city,El Paso city,2020-04-23 21:29:08
+115,100,channel preference,podcast,direct,2020-04-24 08:16:44
+116,55,interest based,N/A,N/A,2020-04-25 08:11:10
+117,30,channel preference,video,one level,2020-04-26 01:36:22
+118,54,interest based,N/A,N/A,2020-04-27 12:22:42
+119,73,geographic,state,California,2020-04-28 07:57:35
+120,61,demographic,income,42613,2020-04-29 01:55:47
+121,28,channel preference,podcast,one level,2020-04-30 01:56:14
+122,42,promotion preference,N/A,N/A,2020-05-01 16:53:43
+123,41,demographic,age,75 years and over,2020-05-02 18:01:36
+124,84,promotion preference,N/A,N/A,2020-05-03 20:09:21
+125,10,engagement status,action_type,add_to_cart,2020-05-04 06:45:59
+126,62,purchase propensity,pending,N/A,2020-05-05 16:41:59
+127,31,engagement status,page_module,specification,2020-05-06 07:04:31
+128,84,interest based,N/A,N/A,2020-05-07 13:05:43
+129,26,demographic,industry,,2020-05-08 20:35:44
+130,82,engagement status,dwell_time_seconds,48,2020-05-09 12:41:10
+131,73,interest based,N/A,N/A,2020-05-10 23:17:40
+132,22,channel preference,website and blogs,three level,2020-05-11 09:03:22
+133,3,demographic,age,65 to 74 years,2020-05-12 18:48:20
+134,23,geographic,country,USA,2020-05-13 02:57:38
+135,84,engagement status,click_source,search,2020-05-14 21:44:32
+136,51,demographic,occupation,,2020-05-15 04:05:16
+137,62,purchase propensity,pending,N/A,2020-05-16 02:15:51
+138,7,engagement status,page_module,,2020-05-17 20:04:36
+139,16,channel preference,email,one level,2020-05-18 06:19:34
+140,5,purchase propensity,pending,N/A,2020-05-19 15:03:17
+141,72,channel preference,video,two level,2020-05-20 06:47:14
+142,74,channel preference,influencer,one level,2020-05-21 12:22:01
+143,6,geographic,country,USA,2020-05-22 10:01:45
+144,32,interest based,N/A,N/A,2020-05-23 19:11:28
+145,57,interest based,N/A,N/A,2020-05-24 07:29:25
+146,1,demographic,industry,construction,2020-05-25 20:58:28
+147,94,purchase propensity,pending,N/A,2020-05-26 19:28:02
+148,91,engagement status,dwell_time_seconds,272,2020-05-27 05:53:08
+149,78,purchase propensity,pending,N/A,2020-05-28 16:50:13
+150,11,interest based,N/A,N/A,2020-05-29 12:30:45
+151,23,promotion preference,N/A,N/A,2020-05-30 15:54:07
+152,35,interest based,N/A,N/A,2020-05-31 23:57:59
+153,46,purchase propensity,completed,N/A,2020-06-01 01:09:18
+154,65,engagement status,dwell_time_seconds,199,2020-06-02 00:47:41
+155,56,channel preference,podcast,three level,2020-06-03 03:51:55
+156,5,channel preference,video,direct,2020-06-04 07:58:01
+157,41,promotion preference,N/A,N/A,2020-06-05 17:21:50
+158,62,purchase propensity,completed,N/A,2020-06-06 15:50:24
+159,86,interest based,N/A,N/A,2020-06-07 20:43:16
+160,96,interest based,N/A,N/A,2020-06-08 03:32:14
+161,18,engagement status,click_source,sale,2020-06-09 09:41:24
+162,62,promotion preference,N/A,N/A,2020-06-10 02:18:54
+163,34,channel preference,influencer,one level,2020-06-11 14:43:42
+164,61,engagement status,action_type,add_to_cart,2020-06-12 21:13:41
+165,51,promotion preference,N/A,N/A,2020-06-13 05:59:47
+166,12,interest based,N/A,N/A,2020-06-14 09:42:28
+167,48,engagement status,dwell_time_seconds,79,2020-06-15 05:39:05
+168,63,channel preference,podcast,one level,2020-06-16 08:46:47
+169,63,geographic,city,Columbus city,2020-06-17 11:44:34
+170,100,geographic,country,USA,2020-06-18 07:09:14
+171,67,promotion preference,N/A,N/A,2020-06-19 14:53:27
+172,11,channel preference,influencer,direct,2020-06-20 12:42:36
+173,25,purchase propensity,pending,N/A,2020-06-21 11:17:32
+174,55,promotion preference,N/A,N/A,2020-06-22 18:31:15
+175,37,purchase propensity,completed,N/A,2020-06-23 09:39:24
+176,79,purchase propensity,pending,N/A,2020-06-24 15:30:49
+177,51,purchase propensity,pending,N/A,2020-06-25 07:28:39
+178,71,engagement status,click_source,cart,2020-06-26 13:40:42
+179,8,interest based,N/A,N/A,2020-06-27 22:16:33
+180,93,purchase propensity,pending,N/A,2020-06-28 02:18:25
+181,27,purchase propensity,pending,N/A,2020-06-29 03:15:05
+182,57,geographic,state,Indiana,2020-06-30 13:53:37
+183,49,interest based,N/A,N/A,2020-07-01 10:21:31
+184,55,geographic,country,USA,2020-07-02 18:04:24
+185,87,channel preference,social media,one level,2020-07-03 13:02:52
+186,44,demographic,age,5 to 17 years,2020-07-04 12:36:53
+187,9,engagement status,click_source,sale,2020-07-05 14:25:28
+188,15,geographic,country,USA,2020-07-06 00:36:12
+189,75,geographic,country,USA,2020-07-07 18:58:21
+190,63,interest based,N/A,N/A,2020-07-08 04:04:09
+191,72,channel preference,influencer,direct,2020-07-09 12:06:37
+192,48,geographic,country,USA,2020-07-10 23:03:37
+193,62,channel preference,social media,direct,2020-07-11 22:13:20
+194,11,interest based,N/A,N/A,2020-07-12 22:32:26
+195,88,interest based,N/A,N/A,2020-07-13 09:45:46
+196,1,channel preference,website and blogs,two level,2020-07-14 03:38:07
+197,22,geographic,state,District of Columbia,2020-07-15 07:33:36
+198,34,geographic,country,USA,2020-07-16 01:46:19
+199,53,purchase propensity,completed,N/A,2020-07-17 16:21:22
+200,42,demographic,employment_status,employed,2020-07-18 01:48:00
+201,37,channel preference,website and blogs,one level,2020-07-19 02:10:10
+202,12,geographic,state,Texas,2020-07-20 07:13:28
+203,95,promotion preference,N/A,N/A,2020-07-21 10:24:10
+204,12,engagement status,dwell_time_seconds,21,2020-07-22 02:57:01
+205,51,interest based,N/A,N/A,2020-07-23 00:44:47
+206,42,geographic,state,Arizona,2020-07-24 08:59:39
+207,67,channel preference,seo,one level,2020-07-25 17:16:16
+208,3,channel preference,influencer,one level,2020-07-26 07:17:45
+209,19,interest based,N/A,N/A,2020-07-27 05:57:02
+210,90,geographic,city,Indianapolis city (balance),2020-07-28 10:58:41
+211,23,channel preference,video,one level,2020-07-29 18:29:45
+212,86,interest based,N/A,N/A,2020-07-30 19:57:07
+213,24,channel preference,social media,one level,2020-07-31 06:18:09
+214,3,engagement status,page_module,bottom,2020-08-01 02:54:09
+215,21,purchase propensity,completed,N/A,2020-08-02 15:29:04
+216,8,geographic,city,Jacksonville city,2020-08-03 21:36:56
+217,25,purchase propensity,shipped,N/A,2020-08-04 18:18:48
+218,5,purchase propensity,pending,N/A,2020-08-05 00:13:37
+219,96,demographic,industry,retail_trade,2020-08-06 18:48:45
+220,51,channel preference,email,direct,2020-08-07 02:36:57
+221,90,interest based,N/A,N/A,2020-08-08 14:49:42
+222,26,geographic,city,Seattle city,2020-08-09 21:27:14
+223,15,demographic,employment_status,employed,2020-08-10 07:14:28
+224,70,promotion preference,N/A,N/A,2020-08-11 20:33:28
+225,24,geographic,country,USA,2020-08-12 17:57:28
+226,39,interest based,N/A,N/A,2020-08-13 19:13:36
+227,40,promotion preference,N/A,N/A,2020-08-14 10:51:27
+228,82,promotion preference,N/A,N/A,2020-08-15 05:10:21
+229,3,demographic,education,bachelors_degree,2020-08-16 12:33:42
+230,3,geographic,state,Ohio,2020-08-17 07:59:13
+231,54,demographic,income,47371,2020-08-18 10:48:21
+232,92,channel preference,seo,three level,2020-08-19 22:46:13
+233,74,channel preference,podcast,one level,2020-08-20 20:30:58
+234,63,engagement status,dwell_time_seconds,265,2020-08-21 23:55:35
+235,62,demographic,employment_status,unemployed,2020-08-22 11:29:53
+236,91,interest based,N/A,N/A,2020-08-23 10:11:36
+237,47,interest based,N/A,N/A,2020-08-24 04:42:50
+238,46,geographic,state,Ohio,2020-08-25 02:10:45
+239,26,engagement status,action_type,view,2020-08-26 21:18:27
+240,4,engagement status,page_module,comments,2020-08-27 21:54:31
+241,5,promotion preference,N/A,N/A,2020-08-28 10:42:36
+242,28,engagement status,page_module,bottom,2020-08-29 15:40:43
+243,93,interest based,N/A,N/A,2020-08-30 02:01:05
+244,20,promotion preference,N/A,N/A,2020-08-31 21:30:02
+245,17,purchase propensity,pending,N/A,2020-09-01 06:12:20
+246,20,promotion preference,N/A,N/A,2020-09-02 18:00:55
+247,42,interest based,N/A,N/A,2020-09-03 22:07:08
+248,96,interest based,N/A,N/A,2020-09-04 16:16:16
+249,16,channel preference,influencer,three level,2020-09-05 15:50:29
+250,11,purchase propensity,shipped,N/A,2020-09-06 18:54:42

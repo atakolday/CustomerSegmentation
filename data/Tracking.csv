@@ -1,0 +1,4 @@
+TrackingID,OrderID,Status,UpdatedAt
+1,1,Shipped,2024-08-08 21:42:36.681127
+2,2,Delivered,2024-08-07 21:42:36.681136
+3,3,In Transit,2024-08-06 21:42:36.681140

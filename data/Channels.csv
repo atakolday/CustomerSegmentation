@@ -1,0 +1,101 @@
+channelID,name,type,level,createdAt
+1,Channel A,influencer,two level,2022-01-01
+2,Channel B,video,three level,2022-01-02
+3,Channel C,website and blogs,one level,2022-01-03
+4,Channel D,email,direct,2022-01-04
+5,Channel E,influencer,three level,2022-01-05
+6,Channel F,podcast,one level,2022-01-06
+7,Channel G,podcast,three level,2022-01-07
+8,Channel H,email,one level,2022-01-08
+9,Channel I,podcast,one level,2022-01-09
+10,Channel J,seo,one level,2022-01-10
+11,Channel K,email,three level,2022-01-11
+12,Channel L,podcast,two level,2022-01-12
+13,Channel M,influencer,one level,2022-01-13
+14,Channel N,email,three level,2022-01-14
+15,Channel O,podcast,two level,2022-01-15
+16,Channel P,social media,direct,2022-01-16
+17,Channel Q,podcast,one level,2022-01-17
+18,Channel R,social media,direct,2022-01-18
+19,Channel S,influencer,three level,2022-01-19
+20,Channel T,video,direct,2022-01-20
+21,Channel U,seo,two level,2022-01-21
+22,Channel V,email,three level,2022-01-22
+23,Channel W,influencer,three level,2022-01-23
+24,Channel X,podcast,direct,2022-01-24
+25,Channel Y,video,two level,2022-01-25
+26,Channel Z,social media,one level,2022-01-26
+27,Channel A1,social media,two level,2022-01-27
+28,Channel B1,influencer,one level,2022-01-28
+29,Channel C1,podcast,direct,2022-01-29
+30,Channel D1,social media,two level,2022-01-30
+31,Channel E1,website and blogs,three level,2022-01-31
+32,Channel F1,podcast,one level,2022-02-01
+33,Channel G1,social media,three level,2022-02-02
+34,Channel H1,seo,one level,2022-02-03
+35,Channel I1,influencer,direct,2022-02-04
+36,Channel J1,social media,three level,2022-02-05
+37,Channel K1,social media,direct,2022-02-06
+38,Channel L1,social media,two level,2022-02-07
+39,Channel M1,seo,one level,2022-02-08
+40,Channel N1,website and blogs,three level,2022-02-09
+41,Channel O1,seo,one level,2022-02-10
+42,Channel P1,email,one level,2022-02-11
+43,Channel Q1,social media,one level,2022-02-12
+44,Channel R1,website and blogs,direct,2022-02-13
+45,Channel S1,influencer,one level,2022-02-14
+46,Channel T1,email,three level,2022-02-15
+47,Channel U1,social media,direct,2022-02-16
+48,Channel V1,website and blogs,one level,2022-02-17
+49,Channel W1,website and blogs,three level,2022-02-18
+50,Channel X1,video,one level,2022-02-19
+51,Channel Y1,website and blogs,one level,2022-02-20
+52,Channel Z1,podcast,three level,2022-02-21
+53,Channel A2,social media,two level,2022-02-22
+54,Channel B2,podcast,three level,2022-02-23
+55,Channel C2,influencer,direct,2022-02-24
+56,Channel D2,podcast,direct,2022-02-25
+57,Channel E2,seo,three level,2022-02-26
+58,Channel F2,seo,three level,2022-02-27
+59,Channel G2,podcast,direct,2022-02-28
+60,Channel H2,website and blogs,three level,2022-03-01
+61,Channel I2,video,direct,2022-03-02
+62,Channel J2,podcast,one level,2022-03-03
+63,Channel K2,influencer,direct,2022-03-04
+64,Channel L2,influencer,one level,2022-03-05
+65,Channel M2,video,direct,2022-03-06
+66,Channel N2,email,two level,2022-03-07
+67,Channel O2,podcast,three level,2022-03-08
+68,Channel P2,influencer,three level,2022-03-09
+69,Channel Q2,video,three level,2022-03-10
+70,Channel R2,video,two level,2022-03-11
+71,Channel S2,email,direct,2022-03-12
+72,Channel T2,podcast,direct,2022-03-13
+73,Channel U2,website and blogs,one level,2022-03-14
+74,Channel V2,video,direct,2022-03-15
+75,Channel W2,podcast,direct,2022-03-16
+76,Channel X2,podcast,two level,2022-03-17
+77,Channel Y2,video,one level,2022-03-18
+78,Channel Z2,video,two level,2022-03-19
+79,Channel A3,seo,three level,2022-03-20
+80,Channel B3,podcast,one level,2022-03-21
+81,Channel C3,podcast,one level,2022-03-22
+82,Channel D3,influencer,three level,2022-03-23
+83,Channel E3,seo,two level,2022-03-24
+84,Channel F3,podcast,direct,2022-03-25
+85,Channel G3,video,two level,2022-03-26
+86,Channel H3,social media,three level,2022-03-27
+87,Channel I3,social media,one level,2022-03-28
+88,Channel J3,social media,two level,2022-03-29
+89,Channel K3,email,three level,2022-03-30
+90,Channel L3,podcast,three level,2022-03-31
+91,Channel M3,website and blogs,three level,2022-04-01
+92,Channel N3,website and blogs,one level,2022-04-02
+93,Channel O3,influencer,one level,2022-04-03
+94,Channel P3,podcast,two level,2022-04-04
+95,Channel Q3,video,direct,2022-04-05
+96,Channel R3,influencer,one level,2022-04-06
+97,Channel S3,influencer,three level,2022-04-07
+98,Channel T3,video,three level,2022-04-08
+99,Channel U3,video,direct,2022-04-09
+100,Channel V3,social media,three level,2022-04-10

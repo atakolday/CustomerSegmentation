@@ -1,0 +1,101 @@
+RetailerID,Name,ContactInfo,CreatedAt,UserID
+1,Norris PLC,robert66@gmail.com,2021-02-05 23:46:56,248
+2,"Bright, Cook and Nicholson",kmyers@outlook.com,2020-12-29 23:46:56,210
+3,Harrington-Fernandez,tduffy@yahoo.com,2020-08-03 23:46:56,62
+4,"Lee, Harrison and Richards",glucas@gmail.com,2020-06-28 23:46:56,26
+5,Taylor PLC,snydertimothy@yahoo.com,2021-01-01 23:46:56,213
+6,"Roberson, Guerra and Burnett",uray@outlook.com,2020-08-08 23:46:56,67
+7,Davis Group,jamesdean@yahoo.com,2020-10-23 23:46:56,143
+8,Wall and Sons,leslie54@gmail.com,2020-07-09 23:46:56,37
+9,"Key, Dawson and Caldwell",vaughnjane@yahoo.com,2021-01-24 23:46:56,236
+10,Johnson and Sons,davidjohnson@hotmail.com,2021-01-04 23:46:56,216
+11,"Cross, Young and Bowen",gwilson@yahoo.com,2020-06-30 23:46:56,28
+12,"Brown, Schmidt and Hernandez",wwheeler@gmail.com,2020-11-16 23:46:56,167
+13,"Strong, Brown and Martin",harveykeith@yahoo.com,2020-07-15 23:46:56,43
+14,Mcconnell LLC,jennifer65@outlook.com,2020-09-04 23:46:56,94
+15,Lopez-Underwood,michaelroach@hotmail.com,2020-09-26 23:46:56,116
+16,Oconnor-Jenkins,thomascampbell@hotmail.com,2020-10-30 23:46:56,150
+17,Lopez LLC,justin43@hotmail.com,2020-10-29 23:46:56,149
+18,"Hoffman, Allen and Lee",carol08@yahoo.com,2020-09-20 23:46:56,110
+19,Garcia Inc,smithjoseph@gmail.com,2020-09-03 23:46:56,93
+20,"Peterson, Johnson and Hall",swilliamson@gmail.com,2020-09-27 23:46:56,117
+21,Conley-Johnson,michelle78@example.com,2020-07-28 23:46:56,56
+22,Young-Gonzalez,gstevens@outlook.com,2020-11-12 23:46:56,163
+23,Watson Inc,kellithomas@hotmail.com,2020-09-19 23:46:56,109
+24,Ortiz Group,ohernandez@yahoo.com,2021-01-05 23:46:56,217
+25,Monroe-Mata,jennifersmith@outlook.com,2020-12-22 23:46:56,203
+26,"Jones, Alexander and Franklin",zturner@yahoo.com,2020-08-21 23:46:56,80
+27,"David, Hines and Moore",melissa67@hotmail.com,2020-07-23 23:46:56,51
+28,Wright-Gutierrez,margaretshaw@gmail.com,2020-07-10 23:46:56,38
+29,"Johnson, Ross and Ramos",catherineroberts@hotmail.com,2020-12-16 23:46:56,197
+30,Wall-Perry,arnoldmary@example.com,2021-02-07 23:46:56,250
+31,Morgan-Jones,robert27@outlook.com,2020-07-24 23:46:56,52
+32,Jones-Reyes,qrandolph@hotmail.com,2021-01-17 23:46:56,229
+33,Collier-Mills,tlozano@example.com,2020-10-26 23:46:56,146
+34,Stewart-Ross,henry30@gmail.com,2020-12-19 23:46:56,200
+35,Wilson-Gilmore,theresa67@example.com,2020-12-01 23:46:56,182
+36,York-Green,frostscott@outlook.com,2020-12-17 23:46:56,198
+37,Aguilar-Hart,heathermurray@hotmail.com,2020-09-21 23:46:56,111
+38,Gonzalez and Sons,greenmolly@yahoo.com,2020-12-14 23:46:56,195
+39,Wood Ltd,maldonadosydney@gmail.com,2020-08-02 23:46:56,61
+40,"Lee, Fuentes and Ford",msavage@outlook.com,2021-01-14 23:46:56,226
+41,"Bauer, Green and Moore",stephenjacobs@hotmail.com,2020-06-03 23:46:56,1
+42,Robles-Pineda,fordkevin@example.com,2020-06-29 23:46:56,27
+43,"Rodriguez, Mooney and Lozano",simmonssandra@outlook.com,2020-06-19 23:46:56,17
+44,Gill-Wilson,erichamilton@gmail.com,2020-12-20 23:46:56,201
+45,"Gonzalez, Ruiz and Burke",hmarsh@hotmail.com,2021-01-23 23:46:56,235
+46,Long Group,rgrant@hotmail.com,2020-10-02 23:46:56,122
+47,Baker Group,coopermichael@yahoo.com,2020-08-25 23:46:56,84
+48,Moon-Collier,robert83@hotmail.com,2020-09-07 23:46:56,97
+49,"Fowler, Buck and Parker",caldwellfernando@yahoo.com,2020-12-13 23:46:56,194
+50,Richardson-Bray,deborahcox@outlook.com,2020-07-18 23:46:56,46
+51,Watkins PLC,molly16@outlook.com,2020-07-30 23:46:56,58
+52,Austin-Greer,kent97@example.com,2020-11-19 23:46:56,170
+53,Sullivan-Walters,thompsonrichard@outlook.com,2020-06-08 23:46:56,6
+54,"Curtis, Dunn and Lane",breanna12@hotmail.com,2021-01-08 23:46:56,220
+55,"Montes, Singh and Johnson",christopher97@yahoo.com,2020-11-22 23:46:56,173
+56,Hernandez-Parker,brian80@gmail.com,2020-06-27 23:46:56,25
+57,"Anderson, Olson and Little",hwalker@gmail.com,2020-11-09 23:46:56,160
+58,"Baldwin, Moore and Martin",david92@gmail.com,2020-11-29 23:46:56,180
+59,Cohen-Mclaughlin,zhansen@yahoo.com,2020-07-04 23:46:56,32
+60,"Lin, Cohen and Torres",williamskristin@outlook.com,2021-02-02 23:46:56,245
+61,"Robertson, Watson and Henry",robertschroeder@gmail.com,2021-02-01 23:46:56,244
+62,Turner-Mueller,hernandezjessica@outlook.com,2020-12-31 23:46:56,212
+63,"Wright, Barry and Vasquez",hallbonnie@yahoo.com,2020-09-08 23:46:56,98
+64,Kim-Young,kristen90@outlook.com,2020-06-07 23:46:56,5
+65,Webster-Reynolds,kelly73@gmail.com,2020-09-11 23:46:56,101
+66,Becker PLC,jacob60@hotmail.com,2021-01-22 23:46:56,234
+67,Pierce-Hall,charlesdiaz@example.com,2020-06-18 23:46:56,16
+68,Johnson-Landry,justinfox@yahoo.com,2020-10-06 23:46:56,126
+69,Joseph Group,sharon49@yahoo.com,2020-09-28 23:46:56,118
+70,"Thompson, Robinson and Collins",smithsandra@hotmail.com,2020-12-12 23:46:56,193
+71,Juarez Inc,wesley06@hotmail.com,2020-07-22 23:46:56,50
+72,Sharp-Castillo,robert64@example.com,2020-07-19 23:46:56,47
+73,Cooper-Rodriguez,psimon@example.com,2020-06-09 23:46:56,7
+74,"Smith, Morgan and Murphy",dward@example.com,2020-09-15 23:46:56,105
+75,Vance-Bell,aaron85@example.com,2020-11-10 23:46:56,161
+76,"Smith, Ingram and Yu",westlinda@yahoo.com,2020-08-20 23:46:56,79
+77,Davies Group,whorton@outlook.com,2020-09-13 23:46:56,103
+78,Thornton Inc,michellevaughn@gmail.com,2020-10-07 23:46:56,127
+79,Grant-Smith,eric32@hotmail.com,2021-01-30 23:46:56,242
+80,"Wong, Silva and Gonzalez",jennifer43@gmail.com,2021-01-27 23:46:56,239
+81,Chang and Sons,ashleythomas@hotmail.com,2020-09-16 23:46:56,106
+82,Lindsey LLC,robertsgarrett@hotmail.com,2021-01-19 23:46:56,231
+83,Dickerson Group,aallen@yahoo.com,2020-06-16 23:46:56,14
+84,Hall-Montoya,sean32@outlook.com,2020-10-20 23:46:56,140
+85,Harris PLC,nicole07@gmail.com,2020-11-27 23:46:56,178
+86,"Rice, Matthews and Pierce",jordanronald@example.com,2020-06-24 23:46:56,22
+87,Ellis and Sons,gordonjoseph@yahoo.com,2020-11-14 23:46:56,165
+88,Reynolds-Gonzalez,hansentodd@hotmail.com,2020-08-16 23:46:56,75
+89,Coleman Inc,millervanessa@outlook.com,2020-10-25 23:46:56,145
+90,Sullivan PLC,maureenmiller@yahoo.com,2020-12-04 23:46:56,185
+91,Fuller and Sons,jjenkins@gmail.com,2020-10-22 23:46:56,142
+92,Ford LLC,rdoyle@gmail.com,2020-12-26 23:46:56,207
+93,"Lewis, Wagner and Cooper",wglover@outlook.com,2020-11-15 23:46:56,166
+94,Baker-Myers,parrishkatherine@outlook.com,2020-10-04 23:46:56,124
+95,Graham-Hogan,colemandaniel@outlook.com,2021-01-29 23:46:56,241
+96,Munoz Group,jgardner@gmail.com,2020-12-02 23:46:56,183
+97,Faulkner Ltd,ldowns@outlook.com,2020-09-23 23:46:56,113
+98,"Thompson, Holmes and Ryan",kristine11@gmail.com,2020-06-20 23:46:56,18
+99,Walters and Sons,rodriguezroger@outlook.com,2020-09-10 23:46:56,100
+100,Roberson Inc,christopher72@example.com,2021-01-28 23:46:56,240

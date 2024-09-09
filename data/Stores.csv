@@ -1,0 +1,101 @@
+StoreID,RetailerID,Name,City,State,Country,CreatedAt
+1,57,Store 57,Los Angeles city,California,USA,2024-08-12 16:44:27.824364
+2,15,Store 15,Austin city,Texas,USA,2024-08-12 16:44:27.825362
+3,20,Store 20,Baltimore city,Maryland,USA,2024-08-12 16:44:27.825362
+4,62,Store 62,Tucson city,Arizona,USA,2024-08-12 16:44:27.826359
+5,33,Store 33,Denver city,Colorado,USA,2024-08-12 16:44:27.827356
+6,24,Store 24,Louisville/Jefferson County metro government (balance),Kentucky,USA,2024-08-12 16:44:27.827356
+7,87,Store 87,Fort Worth city,Texas,USA,2024-08-12 16:44:27.828354
+8,83,Store 83,Dallas city,Texas,USA,2024-08-12 16:44:27.828354
+9,51,Store 51,San Diego city,California,USA,2024-08-12 16:44:27.829351
+10,22,Store 22,Las Vegas city,Nevada,USA,2024-08-12 16:44:27.829351
+11,30,Store 30,Las Vegas city,Nevada,USA,2024-08-12 16:44:27.829351
+12,68,Store 68,Nashville-Davidson metropolitan government (balance),Tennessee,USA,2024-08-12 16:44:27.830348
+13,88,Store 88,Milwaukee city,Wisconsin,USA,2024-08-12 16:44:27.830348
+14,98,Store 98,Albuquerque city,New Mexico,USA,2024-08-12 16:44:27.831346
+15,37,Store 37,Fresno city,California,USA,2024-08-12 16:44:27.831346
+16,93,Store 93,Detroit city,Michigan,USA,2024-08-12 16:44:27.833353
+17,68,Store 68,Dallas city,Texas,USA,2024-08-12 16:44:27.833353
+18,13,Store 13,Jacksonville city,Florida,USA,2024-08-12 16:44:27.834338
+19,21,Store 21,Philadelphia city,Pennsylvania,USA,2024-08-12 16:44:27.834338
+20,39,Store 39,Columbus city,Ohio,USA,2024-08-12 16:44:27.835336
+21,9,Store 9,Baltimore city,Maryland,USA,2024-08-12 16:44:27.836332
+22,50,Store 50,Los Angeles city,California,USA,2024-08-12 16:44:27.836332
+23,88,Store 88,San Diego city,California,USA,2024-08-12 16:44:27.837330
+24,22,Store 22,Detroit city,Michigan,USA,2024-08-12 16:44:27.837330
+25,79,Store 79,San Diego city,California,USA,2024-08-12 16:44:27.838327
+26,2,Store 2,Chicago city,Illinois,USA,2024-08-12 16:44:27.838327
+27,52,Store 52,Jacksonville city,Florida,USA,2024-08-12 16:44:27.839324
+28,98,Store 98,Dallas city,Texas,USA,2024-08-12 16:44:27.839324
+29,55,Store 55,New York city,New York,USA,2024-08-12 16:44:27.840322
+30,1,Store 1,Albuquerque city,New Mexico,USA,2024-08-12 16:44:27.840322
+31,69,Store 69,Denver city,Colorado,USA,2024-08-12 16:44:27.841319
+32,12,Store 12,Los Angeles city,California,USA,2024-08-12 16:44:27.841319
+33,15,Store 15,Los Angeles city,California,USA,2024-08-12 16:44:27.842316
+34,59,Store 59,Detroit city,Michigan,USA,2024-08-12 16:44:27.842316
+35,90,Store 90,Columbus city,Ohio,USA,2024-08-12 16:44:27.843314
+36,49,Store 49,Milwaukee city,Wisconsin,USA,2024-08-12 16:44:27.843314
+37,100,Store 100,New York city,New York,USA,2024-08-12 16:44:27.844311
+38,68,Store 68,Columbus city,Ohio,USA,2024-08-12 16:44:27.844311
+39,52,Store 52,Fort Worth city,Texas,USA,2024-08-12 16:44:27.845309
+40,37,Store 37,Portland city,Oregon,USA,2024-08-12 16:44:27.845309
+41,40,Store 40,Houston city,Texas,USA,2024-08-12 16:44:27.846306
+42,59,Store 59,Tucson city,Arizona,USA,2024-08-12 16:44:27.846306
+43,33,Store 33,Nashville-Davidson metropolitan government (balance),Tennessee,USA,2024-08-12 16:44:27.847303
+44,12,Store 12,Austin city,Texas,USA,2024-08-12 16:44:27.847303
+45,97,Store 97,Indianapolis city (balance),Indiana,USA,2024-08-12 16:44:27.848300
+46,24,Store 24,Oklahoma City city,Oklahoma,USA,2024-08-12 16:44:27.848300
+47,60,Store 60,Philadelphia city,Pennsylvania,USA,2024-08-12 16:44:27.849298
+48,79,Store 79,Fort Worth city,Texas,USA,2024-08-12 16:44:27.849298
+49,62,Store 62,Dallas city,Texas,USA,2024-08-12 16:44:27.850295
+50,29,Store 29,Jacksonville city,Florida,USA,2024-08-12 16:44:27.850295
+51,64,Store 64,Dallas city,Texas,USA,2024-08-12 16:44:27.851292
+52,3,Store 3,New York city,New York,USA,2024-08-12 16:44:27.851292
+53,76,Store 76,San Jose city,California,USA,2024-08-12 16:44:27.852290
+54,98,Store 98,New York city,New York,USA,2024-08-12 16:44:27.852290
+55,7,Store 7,Boston city,Massachusetts,USA,2024-08-12 16:44:27.853287
+56,49,Store 49,Phoenix city,Arizona,USA,2024-08-12 16:44:27.853287
+57,19,Store 19,Oklahoma City city,Oklahoma,USA,2024-08-12 16:44:27.854284
+58,70,Store 70,Tucson city,Arizona,USA,2024-08-12 16:44:27.854284
+59,40,Store 40,Fresno city,California,USA,2024-08-12 16:44:27.855282
+60,3,Store 3,Phoenix city,Arizona,USA,2024-08-12 16:44:27.856279
+61,2,Store 2,San Jose city,California,USA,2024-08-12 16:44:27.856279
+62,97,Store 97,Fresno city,California,USA,2024-08-12 16:44:27.857276
+63,55,Store 55,Indianapolis city (balance),Indiana,USA,2024-08-12 16:44:27.857276
+64,67,Store 67,San Francisco city,California,USA,2024-08-12 16:44:27.858274
+65,47,Store 47,Jacksonville city,Florida,USA,2024-08-12 16:44:27.858274
+66,33,Store 33,Charlotte city,North Carolina,USA,2024-08-12 16:44:27.859271
+67,22,Store 22,Denver city,Colorado,USA,2024-08-12 16:44:27.859271
+68,49,Store 49,Washington city,District of Columbia,USA,2024-08-12 16:44:27.860268
+69,44,Store 44,Memphis city,Tennessee,USA,2024-08-12 16:44:27.860268
+70,41,Store 41,El Paso city,Texas,USA,2024-08-12 16:44:27.861266
+71,41,Store 41,Baltimore city,Maryland,USA,2024-08-12 16:44:27.861266
+72,34,Store 34,Detroit city,Michigan,USA,2024-08-12 16:44:27.862263
+73,67,Store 67,Washington city,District of Columbia,USA,2024-08-12 16:44:27.862263
+74,44,Store 44,Fresno city,California,USA,2024-08-12 16:44:27.863260
+75,59,Store 59,Portland city,Oregon,USA,2024-08-12 16:44:27.863260
+76,44,Store 44,New York city,New York,USA,2024-08-12 16:44:27.864258
+77,3,Store 3,El Paso city,Texas,USA,2024-08-12 16:44:27.865256
+78,97,Store 97,Milwaukee city,Wisconsin,USA,2024-08-12 16:44:27.866253
+79,17,Store 17,Charlotte city,North Carolina,USA,2024-08-12 16:44:27.867250
+80,51,Store 51,Dallas city,Texas,USA,2024-08-12 16:44:27.868253
+81,44,Store 44,Los Angeles city,California,USA,2024-08-12 16:44:27.868253
+82,89,Store 89,Denver city,Colorado,USA,2024-08-12 16:44:27.869245
+83,58,Store 58,Chicago city,Illinois,USA,2024-08-12 16:44:27.870242
+84,92,Store 92,Indianapolis city (balance),Indiana,USA,2024-08-12 16:44:27.870242
+85,37,Store 37,Indianapolis city (balance),Indiana,USA,2024-08-12 16:44:27.871239
+86,85,Store 85,Charlotte city,North Carolina,USA,2024-08-12 16:44:27.871239
+87,92,Store 92,Detroit city,Michigan,USA,2024-08-12 16:44:27.872237
+88,34,Store 34,Columbus city,Ohio,USA,2024-08-12 16:44:27.873234
+89,34,Store 34,Columbus city,Ohio,USA,2024-08-12 16:44:27.873234
+90,56,Store 56,Philadelphia city,Pennsylvania,USA,2024-08-12 16:44:27.874232
+91,34,Store 34,Seattle city,Washington,USA,2024-08-12 16:44:27.875229
+92,12,Store 12,Nashville-Davidson metropolitan government (balance),Tennessee,USA,2024-08-12 16:44:27.876226
+93,35,Store 35,Los Angeles city,California,USA,2024-08-12 16:44:27.877223
+94,81,Store 81,Fresno city,California,USA,2024-08-12 16:44:27.877223
+95,34,Store 34,Fresno city,California,USA,2024-08-12 16:44:27.878220
+96,37,Store 37,Tucson city,Arizona,USA,2024-08-12 16:44:27.878220
+97,86,Store 86,Portland city,Oregon,USA,2024-08-12 16:44:27.880217
+98,82,Store 82,Nashville-Davidson metropolitan government (balance),Tennessee,USA,2024-08-12 16:44:27.881214
+99,85,Store 85,Fort Worth city,Texas,USA,2024-08-12 16:44:27.881214
+100,81,Store 81,Los Angeles city,California,USA,2024-08-12 16:44:27.882211
