@@ -4,7 +4,7 @@ import random
 class GenerateReviews:
     def __init__(self):
         # initializing the dataframe
-        self.data = pd.read_csv('data/Orders_Master')
+        self.data = pd.read_csv('data/Orders_Master.csv')
 
     def generate_review_and_rating(self, product_name):
         positive_reviews = [
@@ -46,22 +46,22 @@ class GenerateReviews:
     
     def generate_reviews(self):
         # Filter delivered orders from orders_master
-        delivered_orders = self.orders_master.loc[self.orders_master['Status'] == 'Delivered']
+        delivered_orders = self.data.loc[self.data['Status'] == 'Delivered']
         
         # Add Reviews and Ratings columns if they don't exist
-        self.orders_master['Reviews'], self.orders_master['Ratings'] = None, None
+        self.data['Reviews'], self.data['Ratings'] = None, None
         
         # Generate reviews and ratings for delivered orders
         for idx, row in delivered_orders.iterrows():
             review, rating = self.generate_review_and_rating(row['Name'])
-            self.orders_master.at[idx, 'Reviews'] = review
-            self.orders_master.at[idx, 'Ratings'] = rating
+            self.data.at[idx, 'Reviews'] = review
+            self.data.at[idx, 'Ratings'] = rating
 
         self.update_orders()
 
     def update_orders(self):
-        self.orders_master.to_csv('data/Orders_Master.csv', index=False)
-        print('>> Generated reviews and ratings added to Orders_Master.csv!\n')
+        self.data.to_csv('data/Orders_Master.csv', index=False)
+        print('>> Generated reviews and ratings added to Orders_Master.csv!')
 
 if __name__ == '__main__':
     # Instantiate GenerateReviews (which inherits orders_master from DataClean)

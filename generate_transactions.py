@@ -55,7 +55,7 @@ class GenerateTransactions:
 
         # Save the result to a CSV file
         complete_transactions.to_csv('data/Transactions.csv', index=False)
-        print(f'>> Transactions.csv successfully updated!\n')
+        print(f'>> Transactions.csv successfully updated!')
 
 if __name__ == "__main__":
     # Instantiate the class

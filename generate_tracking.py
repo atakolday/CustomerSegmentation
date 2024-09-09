@@ -3,7 +3,7 @@ import pandas as pd
 class GenerateTracking:
     def __init__(self):
         self.orders_master = pd.read_csv('data/Orders_Master.csv')
-        self.tracking = pd.read_clipboard('data/Tracking.csv')
+        self.tracking = pd.read_csv('data/Tracking.csv')
 
     def generate_tracking(self):
         # Merge orders_master with tracking on 'OrderID'
@@ -33,7 +33,7 @@ class GenerateTracking:
 
     def update_tracking(self, df):
         df.to_csv('data/Tracking.csv', index=False)
-        print('>> Tracking.csv updated!\n')
+        print('>> Tracking.csv updated!')
 
 if __name__ == '__main__':
     # Initiate class instance

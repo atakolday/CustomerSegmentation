@@ -242,11 +242,11 @@ class DataClean:
         for df_name in df_related_names:
             # Save each related dataframe
             df = getattr(self, df_name)
-            df.to_csv(f'data_test/{df_name.title()}.csv', index=False)
+            df.to_csv(f'data/{df_name.title()}.csv', index=False)
             print(f">> {df_name.title()}.csv generated!")
 
         # Save the main dataframe
-        df_main.to_csv(f'data_test/{data_name.title()}.csv', index=False)
+        df_main.to_csv(f'data/{data_name.title()}.csv', index=False)
         print(f">> {data_name.title()}.csv generated!")
 
     # Additional checks or logic (from your original file) can go here
