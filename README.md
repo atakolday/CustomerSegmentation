@@ -44,10 +44,10 @@ The entire pipeline can be executed sequentially by running the `main.py` file, 
 │   ├── Retailers.csv
 │   ├── Transactions.csv
 │   ├── Tracking.csv
-│   ├── Customer_Behavior.csv         # Will be generated after run.
+│   ├── Customer_Behavior.csv     # Will be generated after run.
 │   ├── Orders_Master.csv         # Will be generated after run.
-│   ├── Orders_Segmented.csv         # Will be generated after run.
-├── heatmaps/                   # Folder where Heatmaps generated for each cluster. are saved.
+│   ├── Orders_Segmented.csv      # Will be generated after run.
+├── heatmaps/                     # Folder where Heatmaps generated for each cluster. are saved.
 │   ├── heatmap_cluster_0.html
 │   ├── heatmap_cluster_1.html
 │   ├── heatmap_cluster_2.html
