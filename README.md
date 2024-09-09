@@ -72,18 +72,6 @@ cd yourrepository
 pip install -r requirements.txt
 ```
 
-You may create a `requirements.txt` file to manage dependencies:
-
-```bash
-pandas
-numpy
-geopy
-tqdm
-nltk
-sklearn
-folium
-```
-
 ### 3. Run the pipeline:
 
 ```bash
@@ -94,7 +82,7 @@ This will execute the entire workflow as described above, including generating s
 
 ### 4. View the Heatmaps:
 
-Once the pipeline finishes, the heatmaps for each customer cluster will be saved in the `data_test/` folder as `.html` files, which you can open in your browser.
+Once the pipeline finishes, the heatmaps for each customer cluster will be saved in the `heatmaps/` folder as `.html` files, which you can open in your browser.
 
 ### Example Output Files:
 - `Orders_Master.csv`: Cleaned and processed orders data.
@@ -126,5 +114,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or inquiries, feel free to reach out:
-- Email: your-email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: atakolday@berkeley.edu
+- GitHub: [atakolday](https://github.com/atakolday)
