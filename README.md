@@ -36,14 +36,23 @@ The entire pipeline can be executed sequentially by running the `main.py` file, 
 ├── heatmap_generator.py         # Generates geolocation-based heatmaps for clusters.
 ├── main.py                      # Orchestrates the entire workflow.
 ├── data/                        # Folder containing raw data files.
+│   ├── Behavioral_Data.csv
+│   ├── Customers.csv
 │   ├── Orders.csv
+│   ├── Order_Items.csv
+│   ├── Products.csv
+│   ├── Retailers.csv
 │   ├── Transactions.csv
 │   ├── Tracking.csv
-├── data_test/                   # Folder where processed data and output files are saved.
-│   ├── Orders_Master.csv
-│   ├── Orders_Segmented.csv
-│   ├── Complete_Transactions.csv
-│   ├── heatmap_cluster_X.html   # Heatmaps generated for each cluster.
+│   ├── Customer_Behavior.csv         # Will be generated after run.
+│   ├── Orders_Master.csv         # Will be generated after run.
+│   ├── Orders_Segmented.csv         # Will be generated after run.
+├── heatmaps/                   # Folder where Heatmaps generated for each cluster. are saved.
+│   ├── heatmap_cluster_0.html
+│   ├── heatmap_cluster_1.html
+│   ├── heatmap_cluster_2.html
+│   ├── heatmap_cluster_3.html  
+│   ├── heatmap_cluster_4.html  
 └── README.md                    # Project documentation (this file).
 ```
 
