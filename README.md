@@ -61,8 +61,9 @@ The entire pipeline can be executed sequentially by running the `main.py` file, 
 Ensure you have the following libraries installed before running the project:
 
 ```bash
-pip install pandas numpy geopy tqdm nltk sklearn folium
+pip install pandas numpy geopy tqdm nltk scikit-learn folium
 ```
+For proper version control, the tested versions of these libraries are available in the `requirements.txt` file. For instructions on how to install these dependencies, [check here](#2-install-the-dependencies).
 
 Additionally, you need to download the necessary NLTK datasets for tokenization, lemmatization, and sentiment analysis. This will be handled in the `TextProcessing` class.
 
@@ -71,8 +72,8 @@ Additionally, you need to download the necessary NLTK datasets for tokenization,
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/atakolday/CustomerSegmentation.git
+cd CustomerSegmentation
 ```
 
 ### 2. Install the dependencies:
