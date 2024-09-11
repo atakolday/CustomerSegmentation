@@ -30,7 +30,9 @@ class TextProcessing:
     def check_reviews(self):
         # If the "Reviews" column doesn't exist, run generate_reviews and reload the data
         if "Reviews" not in self.orders_master.columns:
-            import generate_reviews
+            from generate_reviews import GenerateReviews
+            review_generator = GenerateReviews()
+            review_generator.add_reviews()
             self.orders_master = pd.read_csv('data/Orders_Master.csv')
 
     def download_nltk_data(self):

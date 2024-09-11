@@ -22,7 +22,7 @@ def main():
     # Step 3: Run GenerateReviews
     print("\n>>> Running GenerateReviews...")
     review_generator = GenerateReviews()
-    review_generator.generate_reviews()  # Generate reviews
+    review_generator.add_reviews()  # Generate reviews
 
     # Step 4: Run GenerateTracking
     print("\n>>> Running GenerateTracking...")

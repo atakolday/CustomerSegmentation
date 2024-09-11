@@ -44,7 +44,7 @@ class GenerateReviews:
         
         return review, rating
     
-    def generate_reviews(self):
+    def add_reviews(self):
         # Filter delivered orders from orders_master
         delivered_orders = self.data.loc[self.data['Status'] == 'Delivered']
         
@@ -68,4 +68,4 @@ if __name__ == '__main__':
     review_generator = GenerateReviews()
     
     # Generate reviews and ratings
-    review_generator.generate_reviews()
+    review_generator.add_reviews()
